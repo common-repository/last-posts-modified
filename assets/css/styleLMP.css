@@ -1,0 +1,27 @@
+.LPM_Widget {
+	margin: 0;
+    padding: 0;
+	vertical-align:top;
+	background-color: transparent;
+}
+
+.LPM_Widget .LPM_post-modified {
+    margin-bottom: 20px;
+	clear:left;
+}
+
+.flotte {
+	float:left;
+	/*padding-right: 10px;*/
+	margin-right: 15px;
+
+  }
+
+.textleft {
+	text-align: left;
+  }
+
+  .lightinfo {
+	font-size: x-small;
+  }
+
